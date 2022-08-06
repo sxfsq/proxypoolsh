@@ -1,1 +1,2 @@
 # proxypoolsh
+    **自用**
