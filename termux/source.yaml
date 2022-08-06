@@ -1,0 +1,174 @@
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://us-proxypool.herokuapp.com/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free.kingfu.cf/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free886.herokuapp.com/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://eu-proxypool.herokuapp.com/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://213.188.195.234/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://wxshi.top:9090/clash/proxies?type=all
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxies.bihai.cf/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://39.106.12.141:8081/clash/proxies?type=all
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.fly.dev/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.laowang.me/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://ss.dswang.ga:8443/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.ednovas.xyz/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://klausvpn.posyao.com/clash/proxies
+    
+# 翻墙党论坛抓取
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
+    
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
+    
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ssList
+    num: 200
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: V2List
+    num: 200
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ssrList
+    num: 200
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: trojanList
+    num: 200
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: DaiLiList
+    num: 200
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://clash.3wking.com:12580/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://pc.adlionvm.tk/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.jehu.cf/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.iqiq.io/anaer/Sub/main/clash.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.fastgit.org/anaer/Sub/main/clash.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/anaer/Sub@main/clash.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://101.132.255.205:1234/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://49.233.28.108:1314/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://192.18.133.167:12580/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://origamiboy.herokuapp.com/clash/proxies
