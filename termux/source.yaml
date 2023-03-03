@@ -172,3 +172,132 @@
 - type: clash
   options:
     url: https://origamiboy.herokuapp.com/clash/proxies
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.fly.dev/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.laowang.me/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://klausvpn.posyao.com/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://pc.adlionvm.tk/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.yiun.xyz/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free.iam7.tk/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://168.138.45.251/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://152.70.121.247:8080/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxies.haisto.cn/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://140.83.56.108/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://104.168.117.92/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://81.70.255.175:8080/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://47.87.172.191:8080/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://59.62.188.21:9080/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://101.132.255.205:1234/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://www.lander.work/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free.jingfu.cf/clash/proxies
+
+# 网页抓取
+- type: webfuzz
+  options:
+    url: https://v2cross.com/archives/1884
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://freemby.tk/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.jehu.cf/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.iqiq.io/anaer/Sub/main/clash.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.fastgit.org/anaer/Sub/main/clash.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/anaer/Sub@main/clash.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://101.132.255.205:1234/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
