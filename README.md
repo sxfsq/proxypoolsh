@@ -1,6 +1,10 @@
 # proxypoolsh
 **节点代理池抓取节点**
 ```
+termux-setup-storage && pkg up -y && pkg i golang tar vim -y
+```
+
+```
 pkg install wget
 ```
 ```
