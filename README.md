@@ -4,7 +4,7 @@
 pkg install wget
 ```
 ```
-wget -N "https://raw.githubusercontent.com/hkaa0/proxypoolsh/main/termux/install.sh
+wget -N "https://raw.githubusercontent.com/hkaa0/proxypoolsh/main/termux/install.sh"
 ```
 ```
 chmod +x install.sh
