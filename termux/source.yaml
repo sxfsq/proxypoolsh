@@ -3,46 +3,6 @@
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
-# 模糊抓取订阅链接2
-- type: webfuzzsub
-  options:
-    url: 
-# 模糊抓取订阅链接3
-- type: webfuzzsub
-  options:
-    url: 
-
-    # 模糊抓取订阅链接4
-- type: webfuzzsub
-  options:
-    url: https://github.com/clashconfig/online
-
-    # 模糊抓取订阅链接5
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list
-
-   # 模糊抓取订阅链接6
-- type: webfuzzsub
-  options:
-    url: http://i.sqeven.me/discuss/detail/104
-
-   # 模糊抓取订阅链接7
-- type: webfuzzsub
-  options:
-    url: http://i.sqeven.me/know/detail/103
-
-       # 模糊抓取订阅链接8
-- type: webfuzzsub
-  options:
-    url: http://i.sqeven.me/discuss/detail/102
-
-       # 模糊抓取订阅链接9
-- type: webfuzzsub
-  options:
-    url: http://i.sqeven.me/discuss/detail/100
-
-
 # 订阅链接
 - type: subscribe
   options:
@@ -58,7 +18,6 @@
   options:
     url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
     
-
 # 订阅链接4
 - type: subscribe
   options:
@@ -69,31 +28,10 @@
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 
-# 订阅链接6
-- type: subscribe
-  options:
-    url: raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
-
 # 订阅链接7
 - type: subscribe
   options:
     url: https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
-
-# 订阅链接8
-- type: subscribe
-  options:
-    url:  https://raw.githubusercontent.com/webdao/v2ray/master/nodes3.txt
-
-# 订阅链接9
-- type: subscribe
-  options:
-    url:  https://raw.githubusercontent.com/webdao/v2ray/master/nodes2.txt
-
-# 订阅链接10
-- type: subscribe
-  options:
-    url:  https://raw.githubusercontent.com/webdao/v2ray/master/nodes.txt
-
 
 # 订阅链接11
 - type: subscribe
@@ -186,46 +124,8 @@
 - type: subscribe
   options:
     url: 
-
-  # 订阅链接28
-- type: subscribe
-  options:
-    url: 
-
-  # 订阅链接28
-- type: subscribe
-  options:
-    url: 
-
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
-
-
-# 网页模糊抓取6
-- type: webfuzz
-  options:
-    url: 
-
-# 网页模糊抓取5
-- type: webfuzz
-  options:
-    url: 
-
-
-    # 网页模糊抓取4
-- type: webfuzz
-  options:
-    url: 
-
-# 网页模糊抓取2
-- type: webfuzz
-  options:
-    url: 
    
-   # 网页模糊抓取3
+# 网页模糊抓取3
 - type: webfuzz
   options:
     url: https://github.com/freefq/free
@@ -242,241 +142,6 @@
     channel: jingpingziyuanfenxiang
     num: 200
 
-# tg频道抓取3
-- type: tgchannel
-  options:
-    channel: ssrLists
-    num: 200
-
-# tg频道抓取4
-- type: tgchannel
-  options:
-    channel: ssrList2
-    num: 200
-
-# tg频道抓取5
-- type: tgchannel
-  options:
-    channel: freenodes
-    num: 200
-
-# tg频道抓取6
-- type: tgchannel
-  options:
-    channel: ShareCentre
-    num: 200
-
-# tg频道抓取7
-- type: tgchannel
-  options:
-    channel: V2List
-    num: 200
-
-# tg频道抓取8
-- type: tgchannel
-  options:
-    channel: dangzhibu
-    num: 200
-
-# tg频道抓取9
-- type: tgchannel
-  options:
-    channel: SSRCOM
-    num: 200
-
-# tg频道抓取10
-- type: tgchannel
-  options:
-    channel: SSRSUB
-    num: 200
-
-# tg频道抓取11
-- type: tgchannel
-  options:
-    channel: freebaipiao
-    num: 200
-
-# tg频道抓取
-- type: tgchannel
-  options:
-    channel: FreeSSRNode
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ssrtool
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: freeshadowsock
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: fanqiang666
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: bpjzx2
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ssrtool_crack
-    num: 200
-
-- type: tggroup
-  options:
-    channel: freeyule
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ssrshares
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: gongyijichangfenxiang
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ssrv2taytgshare
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: TgProxies
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: TG_Mtproxy_1
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: baipiaojiedian
-    num: 200
-  
-- type: tgchannel
-  options:
-    channel: daolis_miao
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: vmesssr
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: sphard
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: pjzyj0
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: jiedianfenxiang
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: flyingboat
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: NetfreexSrV
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: gyjclub
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: VPNFolder
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: youmtp
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ssrkn
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: abchz
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: yg251153
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: woyaofq
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: wwx_com
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: freessr4k
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ultrafreevpn
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: VSshit
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: InternetSSR
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: baipiaodadui
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: mtproxy666
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: v2ray666
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: freeVPNserv
-    num: 200
-
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
@@ -485,52 +150,17 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: http://proxies.haisto.cn/clash/proxies
+    url: https://proxies.haisto.cn/clash/proxies
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://1.14.59.143:12580/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://free.iam7.tk/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://beetle.lander.work/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://free.jingfu.cf/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://clash.myvm.cc/clash/proxies
+    url: 
 
 # clash格式订阅链接
 - type: clash
   options:
     url: https://proxy.yugogo.xyz/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://clash.myvm.cc/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://193.123.231.37/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://ss.dosec.cn/clash/proxies
 
 # clash格式订阅链接
 - type: clash
@@ -545,82 +175,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: http://zixibar.net:12580/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://free.dsdog.tk/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://rvorch.treze.cc/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://144.24.94.168/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://101.64.235.179:8443/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://47.87.191.86:8082/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://47.87.191.86:12580/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://123.57.192.169:7777/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://ssr.svipcun.com/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://216.83.40.121:12580/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://47.253.95.45/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://47.253.95.45:3389/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://47.87.172.191:8080/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://free.zlcom.ml/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+    url: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 
 # clash格式订阅链接
 - type: clash
@@ -630,42 +185,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://pool.sagithome.com/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://proxy.yiun.xyz/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://89.117.90.140:12580/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://183.245.52.108:8443/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://132.226.233.118/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://139.162.255.124:12580/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://146.56.185.90:12580/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://a1.laieeee.buzz/clash/proxies
+    url: 
 
 # clash格式订阅链接
 - type: clash
@@ -675,13 +195,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: http://150.230.251.224:12580/clash/proxies
-
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://66.152.176.246:12580/clash/proxies
+    url: 
 
 # clash格式订阅链接
 - type: clash
@@ -691,42 +205,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: http://108.166.220.229:12580/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://pp.tuoba.space:8443/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://ypgt.tk:12580/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: http://20.212.248.250:12588/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.fastgit.org/anaer/Sub/main/clash.yaml
-
-# clash格式订阅链接
-- type: clash
-  options:
     url: https://cdn.jsdelivr.net/gh/anaer/Sub@main/clash.yaml
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml
 
 # clash格式订阅链接
 - type: clash
@@ -737,11 +216,6 @@
 - type: clash
   options:
     url: 
-
-# clash格式订阅链接2
-- type: clash
-  options:
-    url: http://123.lcq25938.top:9080/clash/proxies
 
 # clash格式订阅链接3
 - type: clash
@@ -762,18 +236,8 @@
 - type: clash
   options:
     url:  https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/mattkaydiary.yaml
-   
-# clash格式订阅链接6
-- type: clash
-  options:
-    url:  https://raw.githubusercontent.com/clashconfig/online/main/SurfShark(50168).yml
-   
-# clash格式订阅链接7
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml
 
-    # clash格式订阅链接8
+# clash格式订阅链接8
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
